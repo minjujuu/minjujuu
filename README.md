@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Minjujuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjujuu&theme=discord_old_blurple&show_icons=true)
+![Minjujuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjujuu&theme=material-palenight&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjujuu&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
