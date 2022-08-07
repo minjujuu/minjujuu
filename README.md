@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 ❄ **Link**
 - [Velog](https://velog.io/@minjujuu)
 - [Youtube](https://www.youtube.com/channel/UCckZ0bBmVXjxp8BbrgfhG4g/videos)
+
+🌊 **Contact**
+- dev.minjujuu@gmail.com
